@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MeshApp (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "MeshApp (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
